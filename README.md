@@ -8,11 +8,11 @@ I am a Software Engineering student at Haramaya University 🎓 with a strong fo
 
 I have hands-on experience developing real-world projects📋.
 
-I am continuously improving my skills in backend architecture ⚙️, frontend performance ⚡, and application security 🛡️, with the goal of building production-level software that solves real-world problems 🚀.
+I am continuously improving my skills in backend architecture ⚙️, frontend performance ⚡, and application security 🛡️.
 
 ## 🛠️ Tech Stack
 
-- Frontend: HTML, CSS, JavaScript, React ⚛️
+- Frontend: HTML , CSS, JavaScript, React ⚛️
 - Backend: Node.js, Express ⚙️
 - Database: MongoDB 🍃
 - Tools: Git, GitHub, VS Code
